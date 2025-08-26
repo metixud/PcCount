@@ -50,8 +50,6 @@ g++ -std=c++17 -o PcCount.exe main.cpp
 
     Run the executable:
 
-PcCount.exe
-
     The console will show how long your PC has been running.
 
 📜 License
