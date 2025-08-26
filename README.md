@@ -43,9 +43,9 @@ int main() {
 The project is in C++ and can be compiled with Visual Studio or g++ (MinGW).
 
 Example with g++:
-
+```
 g++ -std=c++17 -o PcCount.exe main.cpp
-
+```
 🚀 Usage
 
     Run the executable:
